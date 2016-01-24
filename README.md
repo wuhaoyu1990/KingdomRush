@@ -4,6 +4,6 @@ http://blog.csdn.net/oshunz
 
 游戏资源下载游戏数据包解压即可
 
-![alt text](https://github.com/wuhaoyu1990/MagicCamera/blob/master/Screenshot_1.JPG)
-![alt text](https://github.com/wuhaoyu1990/MagicCamera/blob/master/Screenshot_1.JPG)
-![alt text](https://github.com/wuhaoyu1990/MagicCamera/blob/master/Screenshot_1.JPG)
+![alt text](https://github.com/wuhaoyu1990/KingdomRush/blob/master/screenshot1.png)
+![alt text](https://github.com/wuhaoyu1990/KingdomRush/blob/master/screenshot2.png)
+![alt text](https://github.com/wuhaoyu1990/KingdomRush/blob/master/screenshot3.png)
